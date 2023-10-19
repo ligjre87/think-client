@@ -1,0 +1,15 @@
+{
+    "name"  : "ligjre87/http-client",
+    "type"  : "library",
+    "homepage": "http://www.workerman.net",
+    "license" : "MIT",
+    "require": {
+        "workerman/psr7": ">=1.4.3",
+        "workerman/workerman" : "^4.0.30"
+    },
+    "autoload": {
+        "psr-4": {
+            "ClientWork\\": "src/"
+        }
+    }
+}
