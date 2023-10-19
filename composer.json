@@ -1,8 +1,7 @@
 {
-    "name"  : "workerman/http-client",
-    "type"  : "library",
-    "homepage": "http://www.workerman.net",
-    "license" : "MIT",
+    "name"  : "ligjre87/http-client",
+    "description": "worker htttp thinkphp6.0",
+    "license": "Apache-2.0",
     "require": {
         "workerman/psr7": ">=1.4.3",
         "workerman/workerman" : "^4.0.30"
