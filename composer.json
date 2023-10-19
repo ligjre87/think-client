@@ -1,5 +1,5 @@
 {
-    "name"  : "ligjre87/http-client",
+    "name"  : "workerman/http-client",
     "type"  : "library",
     "homepage": "http://www.workerman.net",
     "license" : "MIT",
